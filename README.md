@@ -39,6 +39,9 @@ nano accounts.txt
 nano proxy.txt
 ```
 
+FORMAT Accounts.txt
+email:password
+
 ![image](https://github.com/user-attachments/assets/2e00d2b0-74fd-4be0-866d-ba51e4fb51d4)
 
 HAPUS BEARER NYA MASUKIN eyj........
