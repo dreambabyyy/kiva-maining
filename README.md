@@ -12,9 +12,11 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/dreambabyyy/kiva-maining.git
+git clone https://github.com/dreambabyyy/kiva-maining.git 
 ```
-
+```bash
+cd kiva-maining
+```
 2. Install dependencies:
 
 ```bash
